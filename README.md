@@ -1,7 +1,5 @@
 # TODO
 
-![App Logo](link-to-your-logo.png)
-
 ## 1. Introduction <a name="introduction"></a>
 Welcome to the TODO app! This app is designed to help you manage your tasks efficiently, providing a simple and intuitive interface for adding, editing, and completing tasks.
 
@@ -73,6 +71,6 @@ Welcome to the TODO app! This app is designed to help you manage your tasks effi
 
 ### Contact Information:
 
-For any questions or assistance, feel free to reach out to us via email at your@email.com or connect with us on [Twitter](https://twitter.com/27_rsabhah) and [LinkedIn](https://www.linkedin.com/in/rishavdas2002).
+For any questions or assistance, feel free to reach out to us via email at rishavdas27602@email.com or connect with us on [Twitter](https://twitter.com/27_rsabhah) and [LinkedIn](https://www.linkedin.com/in/rishavdas2002).
 
 ---
